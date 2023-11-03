@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ImplicitAppEaxample/app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 52,
+          "index": -1,
+          "line": 42
+        },
+        "start": {
+          "column": 52,
+          "index": -1,
+          "line": 42
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/ImplicitAppEaxample/app/src/main/java/com/implicit/example/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": -1,
+          "line": 66
+        },
+        "start": {
+          "column": 8,
+          "index": -1,
+          "line": 66
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/ImplicitAppEaxample/app/src/main/java/com/implicit/example/MainActivity.java"
+}

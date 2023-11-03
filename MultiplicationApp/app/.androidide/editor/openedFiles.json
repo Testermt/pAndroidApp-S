@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MultiplicationApp /app/src/main/res/layout/activity_main.xml",
+      "selection": {
+        "end": {
+          "column": 8,
+          "index": -1,
+          "line": 16
+        },
+        "start": {
+          "column": 8,
+          "index": -1,
+          "line": 16
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/MultiplicationApp /app/src/main/java/com/example/multiplicationapp/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": -1,
+          "line": 157
+        },
+        "start": {
+          "column": 12,
+          "index": -1,
+          "line": 157
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/MultiplicationApp /app/src/main/res/layout/activity_main.xml"
+}
